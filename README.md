@@ -1,6 +1,6 @@
 # CProgramming
 In script, we have use C language for programming,
-Here we have done 4 Task
+Here we have done 6 Task
 
 Section A
 
